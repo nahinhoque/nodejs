@@ -1,5 +1,5 @@
-//Creating server
-//IMPORTANT
+// Creating server
+// IMPORTANT
 // 1.Using http core package can create a server
 // 2.Two parameters req, resp  how thy works
 // 3.can we create 2 servers in same file

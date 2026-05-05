@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "colors": "^1.4.0",
+    "dayjs": "^1.11.20",
     "nodemon": "^3.1.14"
   }
 }

@@ -16,6 +16,14 @@ http.createServer((req, res) => {
         if(req.url == '/'){
             res.write(data);
         }else if(req.url=='/submit'){
+
+// Handle form Request Data
+// Get data from request. 
+            let dataBody = [];
+            req.on('data',(chunk)=>{
+                dataBody.push(chunk);
+            
+            });
             res.write('<h1>Data Submited</h1>')
         }
          res.end();
