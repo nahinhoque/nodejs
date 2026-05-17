@@ -5,3 +5,10 @@ Byte Code, Machine Code
 Garbage collection
 Deep dive into V8 JS Engine
 Event Loop
+
+# Thread
+# Process
+# Inside Node.js (libuv & async IO)
+# sync, async, setTimeoutZero
+# libuv & Event Loop
+# Thread pool in libuv
