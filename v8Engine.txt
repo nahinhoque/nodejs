@@ -1,0 +1,7 @@
+How programs are executed
+Interpreter
+Compiler
+Byte Code, Machine Code
+Garbage collection
+Deep dive into V8 JS Engine
+Event Loop

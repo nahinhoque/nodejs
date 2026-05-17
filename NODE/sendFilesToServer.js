@@ -101,13 +101,13 @@
 //     completed ? resolve("Success! you work") : reject("Error!");
 // });
 
-async function handlePromise() {
-    try {
-        const resullt = await myPromise;
-        console.log(`The result is - ${resullt}`);
-    } catch (errror) {
-        console.error(`The error is - ${errror}`);
-    }
-}
+// async function handlePromise() {
+//     try {
+//         const resullt = await myPromise;
+//         console.log(`The result is - ${resullt}`);
+//     } catch (errror) {
+//         console.error(`The error is - ${errror}`);
+//     }
+// }
 
-handlePromise();
+// handlePromise();
